@@ -1,0 +1,2 @@
+# taylor_exp_machine_unlearn
+集中式泰勒展开逆推模型遗忘
